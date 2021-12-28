@@ -1,0 +1,84 @@
+body{
+  background-image: url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position:top;
+}
+
+.contenitore{
+  border-radius: 20px;
+  padding-top: 5%;
+  margin-right: 15%;
+  margin-left: 15%;
+  background: hsla(0, 0%, 0%, 0.5);
+  padding-bottom: 5%;
+}
+
+h1{
+  margin:5px;
+}
+
+header{
+  text-align: center;
+  color: #00e600 ;
+
+
+}
+
+#logo{
+  width: 200px;
+}
+
+
+nav{
+  background-color: #00e600;
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: center;
+  padding: 10px;
+  margin-top: 1px;
+
+}
+
+main{
+  text-align: left;
+  margin-left: 5%;
+  margin-top:10px;
+
+}
+
+.monopattino{
+  font-size: 20px;
+  color:white;
+}
+
+.descrizione{
+  font-size: 15px;
+  color:lightgrey;
+}
+
+.caricaGino{
+  width:30%;
+  background-color: orange;
+  height: 20px;
+  border-radius:5px;
+}
+
+.caricaMike{
+  width:50%;
+  background-color:  #00e600;
+  height: 20px;
+  border-radius:5px;
+}
+
+.caricaFede{
+  width:15%;
+  background-color:  red;
+  height: 20px;
+  border-radius:5px;
+}
+
+.selezioni{
+  margin:20px;
+}
